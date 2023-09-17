@@ -1,0 +1,10 @@
+<resources>
+    <declare-styleable name="SeekBar">
+        <attr name="maxValue" format="float" />
+        <attr name="minValue" format="float" />
+        <attr name="value" format="float" />
+        <attr name="circleRadius" format="dimension" />
+        <attr name="circleMargin" format="dimension" />
+        <attr name="customTextSize" format="dimension" />
+    </declare-styleable>
+</resources>
